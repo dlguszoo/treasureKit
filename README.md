@@ -41,7 +41,7 @@
 - [ ] Singleton Manager Examples
 
 ## Auth(Login/Register/SSO)
-- [ ] Basic register, login
+- [x] Basic register, login
 - [x] Access Token
 - [x] Apple Login  // 도연
 - [x] Kakao Login // 예성

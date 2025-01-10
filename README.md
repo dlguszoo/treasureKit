@@ -48,7 +48,7 @@
 - [ ] Google Login
 
 ## Third-party Libraries
-- [ ] List of Frameworks
+- [x] List of Frameworks
 
 ## Info-plist Setting
 

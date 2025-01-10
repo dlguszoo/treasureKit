@@ -14,9 +14,9 @@
 
 ## Network(API)
 ### Moya // 도연
-- [ ] Common
-- [ ] Endpoint
-- [ ] Service
+- [x] Common
+- [x] Endpoint
+- [x] Service
 ### Alamofire
 - [ ] Common
 - [ ] Endpoint
@@ -24,12 +24,12 @@
 
 ## Interaction
 - [ ] check Text Length in Textfield //현주
-- [ ] Set Default Date(in datepicker) // 도연
+- [x] Set Default Date(in datepicker) // 도연
 - [ ] Configure func in tableview/collectionview cell //현주
 - [ ] Get photo in library or camera // 예성
-- [ ] Show/Hide Password in UITextField // 예성
-- [ ] Action Sheet with Multiple Options
-- [ ] Custom Progress Bar(Loading Indicator)
+- [x] Show/Hide Password in UITextField // 예성
+- [x] Action Sheet with Multiple Options
+- [x] Custom Progress Bar(Loading Indicator)
 
 ## RxSwift
 - [ ] 비동기 처리 기본 로직  // 도연
@@ -43,14 +43,17 @@
 ## Auth(Login/Register/SSO)
 - [ ] Basic register, login
 - [x] Access Token
-- [ ] Apple Login  // 도연
-- [ ] Kakao Login // 예성
+- [x] Apple Login  // 도연
+- [x] Kakao Login // 예성
 - [ ] Naver Login
 - [ ] Google Login
 
 ## Third-party Libraries
-- [ ] List of Frameworks
+- [x] List of Frameworks
 
 ## Info-plist Setting
 
 ## Foldering
+
+- [애플 로그인 추가 코드 참고 사이트](https://ios-daniel-yang.tistory.com/entry/iOSSwift-Apple-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95)
+- [애플 로그인 세팅 참고 사이트](https://imweb.me/faq?mode=view&category=29&category2=47&idx=71719)

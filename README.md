@@ -11,7 +11,7 @@
 - [ ] TableView cells
 
 ## Network(API)
-### Moya
+### Moya // 도연
 - [ ] Common
 - [ ] Endpoint
 - [ ] Service
@@ -22,7 +22,7 @@
 
 ## Interaction
 - [ ] check Text Length in Textfield
-- [ ] Set Default Date(in datepicker)
+- [ ] Set Default Date(in datepicker) // 도연
 - [ ] Configure func in tableview/collectionview cell
 - [ ] Get photo in library or camera
 - [ ] Show/Hide Password in UITextField
@@ -30,7 +30,7 @@
 - [ ] Custom Progress Bar(Loading Indicator)
 
 ## RxSwift
-- [ ] 비동기 처리 기본 로직
+- [ ] 비동기 처리 기본 로직  // 도연
 
 ## Database(Local Cache)
 - [ ] SwiftData Examples
@@ -40,7 +40,7 @@
 
 ## Auth(Login/Register/SSO)
 - [ ] Basic register, login
-- [ ] Apple Login
+- [ ] Apple Login  // 도연
 - [ ] Kakao Login
 - [ ] Naver Login
 - [ ] Google Login

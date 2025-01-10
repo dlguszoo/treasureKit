@@ -23,9 +23,9 @@
 - [ ] Service
 
 ## Interaction
-- [ ] check Text Length in Textfield
+- [ ] check Text Length in Textfield //현주
 - [ ] Set Default Date(in datepicker) // 도연
-- [ ] Configure func in tableview/collectionview cell
+- [ ] Configure func in tableview/collectionview cell //현주
 - [ ] Get photo in library or camera
 - [ ] Show/Hide Password in UITextField
 - [ ] Action Sheet with Multiple Options

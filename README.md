@@ -2,15 +2,15 @@
 해커톤과 같은, 빠른 iOS 개발이 필요할 때 사용하는 보물상자
 
 ## Custom UI components
-- [ ] Button //예성
-- [ ] NavigationBar //예성
-- [ ] Tabbar //현주
-- [ ] RoundImageView //예성
-- [ ] TextField //예성
-- [ ] CollectionView cells //현주
-- [ ] TableView cells //현주
-- [ ] BaseUIViewController //현주
-- [ ] BaseUIView //현주
+- [x] Button //예성
+- [x] NavigationBar //예성
+- [x] Tabbar //현주
+- [x] RoundImageView //예성
+- [x] TextField //예성
+- [x] CollectionView cells //현주
+- [x] TableView cells //현주
+- [x] BaseUIViewController //현주
+- [x] BaseUIView //현주
 
 ## Network(API)
 ### Moya // 도연
@@ -23,10 +23,10 @@
 - [ ] Service
 
 ## Interaction
-- [ ] check Text Length in Textfield //현주
+- [x] check Text Length in Textfield //현주
 - [x] Set Default Date(in datepicker) // 도연
-- [ ] Configure func in tableview/collectionview cell //현주
-- [ ] Get photo in library or camera // 예성
+- [x] Configure func in tableview/collectionview cell //현주
+- [x] Get photo in library or camera // 예성
 - [x] Show/Hide Password in UITextField // 예성
 - [x] Action Sheet with Multiple Options
 - [x] Custom Progress Bar(Loading Indicator)

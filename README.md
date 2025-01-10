@@ -24,12 +24,12 @@
 
 ## Interaction
 - [ ] check Text Length in Textfield //현주
-- [ ] Set Default Date(in datepicker) // 도연
+- [x] Set Default Date(in datepicker) // 도연
 - [ ] Configure func in tableview/collectionview cell //현주
 - [ ] Get photo in library or camera // 예성
-- [ ] Show/Hide Password in UITextField // 예성
-- [ ] Action Sheet with Multiple Options
-- [ ] Custom Progress Bar(Loading Indicator)
+- [x] Show/Hide Password in UITextField // 예성
+- [x] Action Sheet with Multiple Options
+- [x] Custom Progress Bar(Loading Indicator)
 
 ## RxSwift
 - [ ] 비동기 처리 기본 로직  // 도연

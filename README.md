@@ -26,8 +26,8 @@
 - [ ] check Text Length in Textfield //현주
 - [ ] Set Default Date(in datepicker) // 도연
 - [ ] Configure func in tableview/collectionview cell //현주
-- [ ] Get photo in library or camera
-- [ ] Show/Hide Password in UITextField
+- [ ] Get photo in library or camera // 예성
+- [ ] Show/Hide Password in UITextField // 예성
 - [ ] Action Sheet with Multiple Options
 - [ ] Custom Progress Bar(Loading Indicator)
 
@@ -43,7 +43,7 @@
 ## Auth(Login/Register/SSO)
 - [ ] Basic register, login
 - [ ] Apple Login  // 도연
-- [ ] Kakao Login
+- [ ] Kakao Login // 예성
 - [ ] Naver Login
 - [ ] Google Login
 

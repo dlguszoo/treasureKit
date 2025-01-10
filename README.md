@@ -42,6 +42,7 @@
 
 ## Auth(Login/Register/SSO)
 - [ ] Basic register, login
+- [ ] Access Token
 - [ ] Apple Login  // 도연
 - [ ] Kakao Login // 예성
 - [ ] Naver Login

@@ -42,7 +42,7 @@
 
 ## Auth(Login/Register/SSO)
 - [x] Basic register, login
-- [ ] Apple Login  // 도연
+- [x] Apple Login  // 도연
 - [ ] Kakao Login // 예성
 - [ ] Naver Login
 - [ ] Google Login
@@ -53,3 +53,6 @@
 ## Info-plist Setting
 
 ## Foldering
+
+- [애플 로그인 추가 코드 참고 사이트](https://ios-daniel-yang.tistory.com/entry/iOSSwift-Apple-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95)
+- [애플 로그인 세팅 참고 사이트](https://imweb.me/faq?mode=view&category=29&category2=47&idx=71719)

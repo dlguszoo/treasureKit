@@ -14,9 +14,9 @@
 
 ## Network(API)
 ### Moya // 도연
-- [ ] Common
-- [ ] Endpoint
-- [ ] Service
+- [x] Common
+- [x] Endpoint
+- [x] Service
 ### Alamofire
 - [ ] Common
 - [ ] Endpoint
@@ -41,7 +41,7 @@
 - [ ] Singleton Manager Examples
 
 ## Auth(Login/Register/SSO)
-- [ ] Basic register, login
+- [x] Basic register, login
 - [ ] Apple Login  // 도연
 - [ ] Kakao Login // 예성
 - [ ] Naver Login
